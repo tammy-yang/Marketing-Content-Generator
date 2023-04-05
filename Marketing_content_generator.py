@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # set up variables
-api_key = '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'
+api_key = 'your key'
 model = 'gpt-3.5-turbo'
 
 # set up gradio
